@@ -1,4 +1,4 @@
-﻿<p align="center"><a href="https://asemalsaiyadi.onrender.com" target="_blank"><img src="/images/logo-dark.png" width="400" alt="Asem Logo"></a></p>
+﻿<p align="center"><a href="https://asemalsaiyadi.onrender.com" target="_blank"><img src="/Shopii.App/wwwroot/images/logo-dark.png" width="400" alt="Asem Logo"></a></p>
 
 ## About Shopii
 This Startup project build using Spark-Framework as a web-api 
@@ -19,7 +19,7 @@ The project uses a SQLite database. You can change the database to any other dat
 Spark has thorough documentation making it simple to get started with. It's also built on top of ASP.NET. So if your familiar with it getting started with Spark will be easy.
 
 ## Screenshots
-![Shopii](/images/shopii.png)
+![Shopii](/Shopii.App/wwwroot/images/shopii.png)
 
 ## License
 The Spark framework is open-sourced software licenced under the MIT license.
